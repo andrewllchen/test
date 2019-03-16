@@ -1,0 +1,8 @@
+# valid options: [legacy], map type
+map=legacy
+# valid options: [2-5], number of players
+players=2
+# valid options: [1-2], 1: random race, 2: in-order pick race
+gamemode=1
+# valid options: bitmap, 1'b: small expansion
+expansions=0x0000
